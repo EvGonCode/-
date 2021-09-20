@@ -1,0 +1,7 @@
+n = int(input())
+b = int(input())
+q = int(input())
+if(n == 1):
+    print(b)
+sum = b*((1 - q**n)/(1 - q));
+print(sum)
