@@ -8,7 +8,7 @@ public class laboratorna3 {
         System.out.println("Введіть x");
         int x = in.nextInt();
         if(n > 16){
-            System.out.println("Double міє обмеження в 16 знаків після крапки, скорегуйте данні з урахуванням цього.");
+            System.out.println("Double має обмеження в 16 знаків після крапки, скорегуйте данні з урахуванням цього.");
         }
         else if(n == 0){
             System.out.print("Результат: ");
