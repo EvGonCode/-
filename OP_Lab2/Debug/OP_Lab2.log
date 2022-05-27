@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Users\gonch\source\repos\OP_Lab2\Source.cpp(52,18): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\gonch\source\repos\OP_Lab2\Source.cpp(54,11): warning C4244: инициализация: преобразование "std::streamoff" в "int", возможна потеря данных
+C:\Users\gonch\source\repos\OP_Lab2\Source.cpp(85,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gonch\source\repos\OP_Lab2\Source.cpp(114,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gonch\source\repos\OP_Lab2\Source.cpp(130,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gonch\source\repos\OP_Lab2\Source.cpp(170,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gonch\source\repos\OP_Lab2\Source.cpp(211,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gonch\source\repos\OP_Lab2\Source.cpp(210,7): warning C4101: str: неиспользованная локальная переменная
+  OP_Lab2.vcxproj -> C:\Users\gonch\source\repos\OP_Lab2\Debug\OP_Lab2.exe
